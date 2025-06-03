@@ -1,0 +1,96 @@
+# 🔥 VITALERTA - Sistema Inteligente de Alerta e Resposta a Queimadas
+
+## 📌 Visão Geral
+
+O **VITALERTA** é uma solução tecnológica desenvolvida para proteger **grupos vulneráveis** — como pessoas com deficiência (PCDs), idosos que vivem sozinhos e comunidades isoladas — dos impactos das queimadas no Brasil. O sistema atua com **alertas automatizados e personalizados**, garantindo que mensagens de emergência cheguem com clareza e rapidez, mesmo em áreas com **baixa infraestrutura** ou **conectividade limitada**.
+
+---
+
+## 🚨 Problema
+
+As queimadas são uma crise ambiental e social no Brasil. Em 2023, o INPE registrou mais de **44 mil focos** apenas na Amazônia no primeiro semestre. Grupos vulneráveis enfrentam riscos severos por:
+
+- Falta de comunicação inclusiva;
+- Dificuldade de locomoção e resposta;
+- Ausência de internet e infraestrutura.
+
+⚠️ Durante as enchentes no RS, mais de **2.000 pessoas com deficiência** foram abrigadas em espaços improvisados, evidenciando a urgência da solução.
+
+---
+
+## 💡 Solução
+
+O **VITALERTA** é um **sistema inteligente de alerta e resposta rápida** com foco em:
+
+### 🔔 Alertas Personalizados
+
+- Áudio para pessoas com deficiência visual;
+- Vibração reforçada para surdos;
+- Instruções simplificadas para idosos;
+- Envio por múltiplos canais: SMS, chamada, rádio comunitário, etc.
+
+### 📡 Detecção e Ativação
+
+- Integração com sensores e dados de satélite (ex: INPE);
+- Localização automática de usuários em áreas de risco;
+- Ações imediatas com pedido de verificação.
+
+### 📞 Acompanhamento
+
+- Solicita confirmação do usuário;
+- Aciona contatos de emergência se não houver resposta;
+- Coordena socorro com base no perfil individual (mobilidade, equipamentos médicos, etc.).
+
+---
+
+## 🧩 Diferenciais
+
+✅ Inclusão digital e acessibilidade real  
+✅ Funciona mesmo sem internet  
+✅ Resposta preventiva e corretiva  
+✅ Suporte a equipes de resgate locais e voluntários
+
+---
+
+## 👥 Público-Alvo
+
+- 👴 Idosos que vivem sozinhos  
+- ♿ Pessoas com deficiência  
+- 🏞️ Comunidades remotas e isoladas  
+- 🚑 Equipes de resgate e assistência social
+
+---
+
+## 📈 Impacto Esperado
+
+- Redução de vítimas em queimadas
+- Maior eficácia em alertas e evacuação
+- Inclusão de populações invisibilizadas
+- Modelo replicável para outros desastres
+
+---
+
+## 🤝 Colaboradores
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<a href="https://github.com/iannyrfs" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/iannyrfs" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Ianny Raquel, 559096</p>
+</a>
+<a href="https://github.com/gvqsilva" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/gvqsilva" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Gabriel Vasquez, 557056</p>
+</a>
+<a href="https://github.com/StkStevens" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/StkStevens" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Estevam Melo, 555124</p>
+</a>
+</div>
+
+---
+
+> 💚 Desenvolvido com empatia para salvar vidas.
+
+---
+
+Projeto desenvolvido para fins academicos.
